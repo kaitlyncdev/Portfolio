@@ -1,0 +1,299 @@
+*{
+	box-sizing: border-box;
+}
+
+html {
+	background-color: #5a5a5a;
+	background-image: url(pantheonlogoDarkBG.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	background-attachment: fixed;
+	float: bottom;
+
+	line-height: 2;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	margin: 0px
+	padding: 0px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+/* Main Column Typography */
+.main-area h2 {
+	font-size: 165%;
+	font-weight: normal;
+}
+
+
+.pagecontainer {
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+@media screen and (min-width: 1280px) {
+	
+	body {
+		font-size: 16px;
+	}
+
+	.pagecontainer {
+		max-width: 100%;
+	}
+	
+}
+
+@media screen and (max-width: 767px) {
+	
+	
+}
+/* End Main Column Typography */
+
+
+
+/* Page Header */
+header {
+	padding: 280px;
+	background-color: rgba(214,220,229, 0);
+	border-radius: 25px 25px 0px 0px;
+}
+
+.transbox{
+	background-color: rgba(32, 56, 100, 0);
+	border-radius: 25px 25px 0px 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.headerContent h1{
+	margin: 0px;
+	border-radius: 25px 25px 0px 0px;
+	color:rgba(251,251,251, 1);
+	font-weight: normal;
+	display: block;
+	text-align: center;
+	padding: 50px;
+}
+
+@media screen and (max-width: 767px) {
+
+	.headerContent {
+		width: auto;
+		height: auto;
+	}
+
+	.headerContent img{
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		height: 80px;
+	}
+
+	.headerContent h1{
+		text-align: center;
+		float: none;
+	}
+}
+/* End Page Header */
+
+/* Page Body */
+.content-area {
+	background-color: rgba(214,220,229, .8);
+	padding-bottom: 20px;
+	min-height: 100%;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+  background-color: #f1f1f1
+}
+
+.collapsible {
+  background-color: rgba(34,42,53, 1);
+  color: rgba(251,251,251, 1);
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: rgba(34,42,53, .8);
+}
+
+.content {
+  padding: 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  text-align: left;
+}
+
+/*
+.z1{
+	position: absolute;
+	z-index: 1;
+}
+.z2{
+	cursor: move;
+	z-index: 2;
+}
+.z3{
+	z-index: 3;
+}
+.z4{
+	cursor: move;
+	z-index: 4;
+}
+.z5{
+	z-index: 5;
+}
+.z6{
+	cursor: move;
+	z-index: 6;
+}
+.z7{
+	z-index: 7;
+}
+.z8{
+	cursor: move;
+	z-index: 8;
+}
+.z9{
+	z-index: 9;
+}
+.z10{
+	cursor: move;
+	z-index: 10;
+}
+*/
+
+
+/* End Page Body */
+
+/* Grid Setup */
+.row {
+}
+
+.col {
+	width: 100%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.col1 {
+	width: 100%;
+	float: left;
+}
+
+.col-xs-11 {width: 91.662%}
+.col-xs-10 {width: 83.332%;}
+.col-xs-9 {width: 75%;}
+.col-xs-8 {width: 66.662%;}
+.col-xs-7 {width: 58.331%}
+.col-xs-6 {width: 50%;}
+.col-xs-5 {width: 41.662%}
+.col-xs-4 {width: 33.332%;}
+.col-xs-3 {width: 25%;}
+.col-xs-2 {width: 16.662%;}
+.col-xs-1 {width: 8.332%;}
+
+@media screen and (min-width: 768px) {
+		
+	.col-sm-11 {width: 91.662%}
+	.col-sm-10 {width: 83.332%;}
+	.col-sm-9 {width: 75%;}
+	.col-sm-8 {width: 66.662%;}
+	.col-sm-7 {width: 58.331%}
+	.col-sm-6 {width: 50%;}
+	.col-sm-5 {width: 41.662%}
+	.col-sm-4 {width: 33.332%;}
+	.col-sm-3 {width: 25%;}
+	.col-sm-2 {width: 16.662%;}
+	.col-sm-1 {width: 8.332%;}
+	
+}
+
+@media screen and (min-width: 1024px) {
+	
+	.col-md-11 {width: 91.662%}
+	.col-md-10 {width: 83.332%;}
+	.col-md-9 {width: 75%;}
+	.col-md-8 {width: 66.662%;}
+	.col-md-7 {width: 58.331%}
+	.col-md-6 {width: 50%;}
+	.col-md-5 {width: 41.662%}
+	.col-md-4 {width: 33.332%;}
+	.col-md-3 {width: 25%;}
+	.col-md-2 {width: 16.662%;}
+	.col-md-1 {width: 8.332%;}
+	
+}
+
+@media screen and (min-width: 1280px) {
+	
+	.col-lg-11 {width: 91.662%}
+	.col-lg-10 {width: 83.332%;}
+	.col-lg-9 {width: 75%;}
+	.col-lg-8 {width: 66.662%;}
+	.col-lg-7 {width: 58.331%}
+	.col-lg-6 {width: 50%;}
+	.col-lg-5 {width: 41.662%}
+	.col-lg-4 {width: 33.332%;}
+	.col-lg-3 {width: 25%;}
+	.col-lg-2 {width: 16.662%;}
+	.col-lg-1 {width: 8.332%;}
+	
+}
+
+@media screen and (max-width: 1023px) {
+	.push-down-sm {
+		margin-bottom: 30px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.push-down-sm {
+		margin-bottom: 15px;
+	}
+}
+/* End Grid Setup */
+
+/* BorderBox Styles */
+.row:before,
+.row:after,
+.group:before,
+.group:after {
+	content: "";
+	display: table;
+}
+
+.row:after,
+.group:after {
+	content:"";
+	display: table;
+	clear: both;
+}
+
+.row,
+.group {
+	zoom: 1;
+}
+/* End BorderBox Styles */
