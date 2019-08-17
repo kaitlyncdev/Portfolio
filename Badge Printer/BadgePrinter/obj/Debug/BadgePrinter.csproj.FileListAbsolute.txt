@@ -1,0 +1,15 @@
+\\deployment\redirect\rparrott\my documents\visual studio 2015\Projects\Badge Printer\BadgePrinter\bin\Debug\BadgePrinter.exe.config
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Debug\BadgePrinter.exe.config
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Debug\BadgePrinter.exe
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Debug\BadgePrinter.pdb
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.csprojResolveAssemblyReference.cache
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.Form1.resources
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.Properties.Resources.resources
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.csproj.GenerateResource.Cache
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.exe
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.pdb
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Debug\BadgePrinter.exe.manifest
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Debug\BadgePrinter.application
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.TrustInfo.xml
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.exe.manifest
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Debug\BadgePrinter.application

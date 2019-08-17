@@ -1,0 +1,15 @@
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Release\BadgePrinter.exe.config
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Release\BadgePrinter.exe.manifest
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Release\BadgePrinter.application
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Release\BadgePrinter.exe
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\bin\Release\BadgePrinter.pdb
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.Form1.resources
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.Properties.Resources.resources
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.csproj.GenerateResource.Cache
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.TrustInfo.xml
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.exe.manifest
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.application
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.exe
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.pdb
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.csprojResolveAssemblyReference.cache
+\\DEVSVR\Dev_Share\IS Programs\Badge Printer\BadgePrinter\obj\Release\BadgePrinter.Badgeprinter.resources
